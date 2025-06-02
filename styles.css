@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  background: white;
+  background: Lavendar;
   padding: 30px;
   border-radius: 10px;
   width: 300px;
@@ -23,8 +23,8 @@ input {
 
 button {
   padding: 10px;
-  background-color: teal;
-  color: white;
+  background-color: maroon;
+  color: purple;
   border: none;
   width: 100%;
   cursor: pointer;
